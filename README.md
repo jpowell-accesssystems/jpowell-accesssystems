@@ -38,4 +38,4 @@ I enjoy seeing thoughtful designs that are accomplished without overengineering,
 
 I usually find myself somewhere between a SOLID refactor and a dashboard that finally tells the truth.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jpowell-accesssystems&theme=blue-green&border_radius=15&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&exclude_days=Sun%2CSat&card_width=600&card_height=240)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jpowell-accesssystems&theme=blue-green&border_radius=15&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&exclude_days=Sun%2CSat&card_width=600&card_height=240)]
